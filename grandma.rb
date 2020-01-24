@@ -26,6 +26,5 @@ end
 
 if "speak_to_grandma".capitalize
   print "HUH?! SPEAK UP, SONNY!"
-  elsif ""
 end
 
