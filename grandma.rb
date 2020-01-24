@@ -21,4 +21,6 @@ end
 if "Hi grandma"
   print "HUH?! SPEAK UP SONNY!"
   elsif "Hi Grandma!".upcase
-  print 
+  print "HI SONNY!"
+end
+
