@@ -14,7 +14,7 @@
 
 speak_to_grandma = "I LOVE YOU GRANDMA!"
 
-if "I love you grandma!".upcase
+if " lIove you grandma!".upcase
   print "I LOVE YOU TOO PUMPKIN!"
 end
 
