@@ -12,18 +12,19 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-speak_to_grandma = "I LOVE YOU GRANDMA!"
+speak_to_grandma = "I love you grandma!"
 
-if " lIove you grandma!".upcase
+if "speak_to_grandma".upcase
   print "I LOVE YOU TOO PUMPKIN!"
 end
 
-if "Hi grandma"
+if "speak_to_grandma".downcase
   print "HUH?! SPEAK UP, SONNY!"
-  elsif "Hi Grandma!".upcase
-  print "HI SONNY!"
+  elsif "speak_to_grandma".upcase
+  print "I LOVE YOU TOO PUMPKIN"
 end
 
-if "Hi!"
+if "speak_to_grandma".capitalize
   print "HUH?! SPEAK UP, SONNY!"
 end
+
