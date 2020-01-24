@@ -14,4 +14,8 @@
 
 
 
-if "Hello Grandma!"
+if "I love you grandma!".upcase
+  print "I LOVE YOU TOO PUMPKIN!"
+end
+
+if "Hi grandma"
