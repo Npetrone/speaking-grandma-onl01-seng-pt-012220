@@ -19,11 +19,11 @@ if "I love you grandma!".upcase
 end
 
 if "Hi grandma"
-  print "HUH?! SPEAK UP SONNY!"
+  print "HUH?! SPEAK UP, SONNY!"
   elsif "Hi Grandma!".upcase
   print "HI SONNY!"
 end
 
 if "Hi!"
-  print "HUH?! SPEAK UP SONNY!"
+  print "HUH?! SPEAK UP, SONNY!"
 end
