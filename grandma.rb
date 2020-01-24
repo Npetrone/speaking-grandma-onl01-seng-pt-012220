@@ -12,9 +12,9 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-speak_to_grandma = "I LOVE YOU GRANDMA!"
+speak_to_grandma = "I love you Grandma!"
 
-if "speak_to_grandma" == "I LOVE YOU GRANDMA!"
+if speak_to_grandma.upcase
   puts "I LOVE YOU TOO PUMPKIN!"
 end
 
