@@ -24,3 +24,6 @@ if "Hi grandma"
   print "HI SONNY!"
 end
 
+if "Hi!"
+  print "HUH?! SPEAK UP SONNY!"
+end
