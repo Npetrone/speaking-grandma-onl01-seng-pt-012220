@@ -14,15 +14,3 @@
 
 
 
-
-if "I love you Grandma!".downcase
-  puts "HUH?! SPEAK UP, SONNY!"
-  elsif "I love you Grandma!".capitalize
-  puts "HUH?! SPEAK UP, SONNY!"
-  elsif
-  puts "HUH?! SPEAK UP, SONNY!"
-elsif "I love you Grandma!".swapcase
-puts "NO, NOT SINCE 1938"
-else "I LOVE YOU GRANDMA!".upcase
-  puts "I LOVE YOU TOO PUMPKIN!"
-end
