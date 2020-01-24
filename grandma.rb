@@ -14,17 +14,5 @@
 
 speak_to_grandma = "I LOVE YOU GRANDMA!"
 
-if "I LOVE YOU GRANDMA!"
-  print "I LOVE YOU TOO PUMPKIN!"
-end
 
-if "speak_to_grandma".downcase
-  print "HUH?! SPEAK UP, SONNY!"
-  elsif "speak_to_grandma".upcase
-  print "I LOVE YOU TOO PUMPKIN"
-end
-
-if "speak_to_grandma".capitalize
-  print "HUH?! SPEAK UP, SONNY!"
-end
 
